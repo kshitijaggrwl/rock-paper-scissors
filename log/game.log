@@ -1,0 +1,68 @@
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 0, Result = TIE
+INFO:root:Game Count = 2, Player 1 Action = 0,    Player 2 Action = 0, Result = TIE
+INFO:root:Game Count = 3, Player 1 Action = 1,    Player 2 Action = 0, Result = WIN
+INFO:root:Game Count = 4, Player 1 Action = 1,    Player 2 Action = 0, Result = WIN
+INFO:root:Game Count = 5, Player 1 Action = 2,    Player 2 Action = 2, Result = TIE
+INFO:root:Game Count = 6, Player 1 Action = 2,    Player 2 Action = 1, Result = WIN
+ERROR:rock-paper-scissors-logger:Exception Occured. Invalid Input 3
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: 'c'
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: ' '
+WARNING:rock-paper-scissors-logger:Invalid Input 
+WARNING:rock-paper-scissors-logger:Invalid Input u
+WARNING:rock-paper-scissors-logger:Invalid Input \
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: 'a'
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: '.'
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: '+'
+INFO:root:Games won = 3, Games lost = 0
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 0, Result = TIE
+INFO:root:Game Count = 2, Player 1 Action = 1,    Player 2 Action = 1, Result = TIE
+INFO:root:Game Count = 3, Player 1 Action = 2,    Player 2 Action = 1, Result = WIN
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: 'c'
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: ';'
+INFO:root:Games won = 1, Games lost = 0
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+ERROR:rock-paper-scissors-logger:Exception Occured. Invalid Input 8
+ERROR:rock-paper-scissors-logger:Exception Occured. Invalid Input 6
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 1, Result = LOSE
+INFO:root:Game Count = 2, Player 1 Action = 2,    Player 2 Action = 1, Result = WIN
+ERROR:rock-paper-scissors-logger:Exception Occured. Invalid Input 3
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: 'fd'
+WARNING:rock-paper-scissors-logger:Invalid Input .
+WARNING:rock-paper-scissors-logger:Invalid Input c
+WARNING:rock-paper-scissors-logger:Invalid Input s
+WARNING:rock-paper-scissors-logger:Invalid Input d
+WARNING:rock-paper-scissors-logger:Invalid Input c
+INFO:root:Games won = 1, Games lost = 1
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+ERROR:rock-paper-scissors-logger:Exception Occured. invalid literal for int() with base 10: 'd'
+WARNING:rock-paper-scissors-logger:Invalid Input 
+WARNING:rock-paper-scissors-logger:Invalid Input 6
+WARNING:rock-paper-scissors-logger:Invalid Input 4
+WARNING:rock-paper-scissors-logger:Invalid Input 3
+WARNING:rock-paper-scissors-logger:Invalid Input 2
+WARNING:rock-paper-scissors-logger:Invalid Input 45
+INFO:root:Game Count = 1, Player 1 Action = 2,    Player 2 Action = 0, Result = LOSE
+INFO:root:Game Count = 2, Player 1 Action = 1,    Player 2 Action = 1, Result = TIE
+ERROR:rock-paper-scissors-logger:Exception Occured. Invalid Input 3
+INFO:root:Game Count = 3, Player 1 Action = 0,    Player 2 Action = 2, Result = WIN
+WARNING:rock-paper-scissors-logger:Invalid Input 0
+INFO:root:Game Count = 4, Player 1 Action = 0,    Player 2 Action = 0, Result = TIE
+INFO:root:Games won = 1, Games lost = 1
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 2,    Player 2 Action = 1, Result = WIN
+INFO:root:Game Count = 2, Player 1 Action = 1,    Player 2 Action = 1, Result = TIE
+WARNING:rock-paper-scissors-logger:Invalid Input y1
+INFO:root:Game Count = 3, Player 1 Action = 1,    Player 2 Action = 1, Result = TIE
+INFO:root:Games won = 1, Games lost = 0
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 1,    Player 2 Action = 1, Result = TIE
+ERROR:rock-paper-scissors-logger:Exception Occured. Invalid Input 4
+INFO:root:Games won = 0, Games lost = 0
+INFO:rock-paper-scissors-logger:Game Ends
