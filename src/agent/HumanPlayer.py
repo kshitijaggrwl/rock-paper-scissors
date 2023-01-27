@@ -1,6 +1,6 @@
-from agent.Player import Player
-from activity.Action import Action
-from exception.InvalidActionException import InvalidActionException
+from src.agent.Player import Player
+from src.activity.Action import Action
+from src.exception.InvalidActionException import InvalidActionException
 
 class HumanPlayer(Player):
     """

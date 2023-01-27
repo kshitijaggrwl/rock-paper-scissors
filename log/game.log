@@ -66,3 +66,36 @@ INFO:root:Game Count = 1, Player 1 Action = 1,    Player 2 Action = 1, Result = 
 ERROR:rock-paper-scissors-logger:Exception Occured. Invalid Input 4
 INFO:root:Games won = 0, Games lost = 0
 INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 1,    Player 2 Action = 1, Result = TIE
+INFO:root:Games won = 0, Games lost = 0
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 1,    Player 2 Action = 2, Result = LOSE
+INFO:root:Games won = 0, Games lost = 1
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 1, Result = LOSE
+INFO:root:Games won = 0, Games lost = 1
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 0, Result = TIE
+INFO:root:Games won = 0, Games lost = 0
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 1, Result = LOSE
+INFO:root:Game Count = 2, Player 1 Action = 2,    Player 2 Action = 2, Result = TIE
+INFO:root:Games won = 0, Games lost = 1
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 1, Result = LOSE
+INFO:root:Games won = 0, Games lost = 1
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 1, Result = LOSE
+INFO:root:Games won = 0, Games lost = 1
+INFO:rock-paper-scissors-logger:Game Ends
+INFO:rock-paper-scissors-logger:Game Starts
+INFO:root:Game Count = 1, Player 1 Action = 0,    Player 2 Action = 2, Result = WIN
+INFO:root:Games won = 1, Games lost = 0
+INFO:rock-paper-scissors-logger:Game Ends

@@ -7,11 +7,11 @@ def test_human_player_valid_input():
     Tests whether getter action method of HumanPlayer class generates valid action
     """
     human_player = HumanPlayer()
-    human_player.action = lambda: 0
-    assert human_player.action == Action.ROCK
+    action = Action(0)
+    assert action == Action.ROCK
 
-    human_player.action = lambda: 1
-    assert human_player.action == Action.PAPER
+    action = Action(1)
+    assert action == Action.PAPER
 
-    human_player.action = lambda: 2
-    assert human_player.action == Action.SCISSOR
+    action = Action(2)
+    assert action == Action.SCISSOR

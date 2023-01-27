@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 
 ## Running the game
-To start the game, run the following command in the src directory:
+To start the game, run the following command in the root directory:
 ```bash
 python app.py
 ```

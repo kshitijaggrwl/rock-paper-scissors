@@ -1,9 +1,9 @@
 import logging
-from activity.RockPaperScissor import RockPaperScissor
-from agent.HumanPlayer import HumanPlayer
-from agent.ComputerPlayer import ComputerPlayer
-from result.Result import Result
-from activity.Action import Action
+from src.activity.RockPaperScissor import RockPaperScissor
+from src.agent.HumanPlayer import HumanPlayer
+from src.agent.ComputerPlayer import ComputerPlayer
+from src.result.Result import Result
+from src.activity.Action import Action
 
 
 logging.basicConfig(filename='log/game.log', level=logging.INFO)

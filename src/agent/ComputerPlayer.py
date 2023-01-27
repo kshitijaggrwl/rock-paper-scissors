@@ -1,6 +1,6 @@
 from random import choice
-from agent.Player import Player
-from activity.Action import Action
+from src.agent.Player import Player
+from src.activity.Action import Action
 
 class ComputerPlayer(Player):
     """

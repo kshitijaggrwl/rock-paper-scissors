@@ -1,5 +1,5 @@
 from abc import ABC,abstractmethod
-from activity.Action import Action
+from src.activity.Action import Action
 
 class Player(ABC):
     """

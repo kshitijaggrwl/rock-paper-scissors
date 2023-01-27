@@ -3,7 +3,7 @@ from src.agent.HumanPlayer import HumanPlayer
 from src.agent.ComputerPlayer import ComputerPlayer
 from src.result.Result import Result
 from src.activity.Action import Action
-from src.app import *
+from app import *
 
 def test_process_result_tie():
     """

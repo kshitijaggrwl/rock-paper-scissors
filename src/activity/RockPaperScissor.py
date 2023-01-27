@@ -1,6 +1,6 @@
-from activity.Action import Action
-from exception.InvalidActionException import InvalidActionException
-from result.Result import Result
+from src.activity.Action import Action
+from src.exception.InvalidActionException import InvalidActionException
+from src.result.Result import Result
 
 
 class RockPaperScissor:
